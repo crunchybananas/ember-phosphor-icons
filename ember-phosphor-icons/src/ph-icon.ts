@@ -1,6 +1,6 @@
 import Component from '@glimmer/component';
 
-interface PhIconSignature {
+export interface PhIconSignature {
   Args: {
     /**
      * Icon weight/style. Can also be used, for example, to "toggle" an icon's state: a rating component.

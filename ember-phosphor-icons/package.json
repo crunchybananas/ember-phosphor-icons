@@ -1612,5 +1612,11 @@
       "./components/ph-yin-yang.js": "./dist/_app_/components/ph-yin-yang.js",
       "./components/ph-youtube-logo.js": "./dist/_app_/components/ph-youtube-logo.js"
     }
+  },
+  "glint": {
+    "environment": [
+      "ember-loose",
+      "ember-template-imports"
+    ]
   }
 }

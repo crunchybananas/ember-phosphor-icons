@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 overrides:
-  '@types/eslint': ^7.0.0
+  '@types/eslint': ^7.29.0
 
 importers:
 
@@ -3873,7 +3873,7 @@ packages:
     resolution: {integrity: sha512-BvQOvUhkVQM1i63iMETK9Hjud9QhqBnbtT1Zc642p9ynzBuCe5pybkOnvqZIBypXmMlsGcnU4HZ8sCTPfpAexA==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
-      '@types/eslint': ^7.0.0
+      '@types/eslint': ^7.29.0
       eslint: '>=8.0.0'
       eslint-config-prettier: '>= 7.0.0 <10.0.0 || >=10.1.0'
       prettier: '>=3.0.0'
